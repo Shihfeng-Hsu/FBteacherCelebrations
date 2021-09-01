@@ -107,5 +107,5 @@ body {
 
 .bgimage{
   background-image: url("images/wave.jpg");
-  background-size: contain;
+  background-size: cover;
 }
